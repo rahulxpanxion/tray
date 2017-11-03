@@ -1,0 +1,9 @@
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\LZSetupConsole.deps.json
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\LZSetupConsole.runtimeconfig.json
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\LZSetupConsole.runtimeconfig.dev.json
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\LZSetupConsole.dll
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\LZSetupConsole.pdb
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\LZSetupConsole.csprojResolveAssemblyReference.cache
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\LZSetupConsole.AssemblyInfo.cs
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\LZSetupConsole.dll
+c:\users\srahul\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\LZSetupConsole.pdb
